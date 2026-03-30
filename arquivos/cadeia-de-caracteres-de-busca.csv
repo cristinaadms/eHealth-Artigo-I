@@ -1,0 +1,5 @@
+"String de busca usada para
+artigos de 2021 - 2025","((""Virtual Network Embedding"" OR VNE OR ""Network Slicing"" OR ""Network Virtualization"" OR ""Virtual Network Mapping"") AND
+(""eHealth"" OR ""e-Health"" OR ""electronic health"" OR ""digital health"" OR ""smart healthcare"" OR ""telemedicine"" OR ""telehealth"" OR
+""mobile health"" OR ""mHealth"" OR ""connected health"" OR ""health informatics"" OR ""medical IoT"" OR ""healthcare IoT"")) AND
+(""5G"" OR ""fifth generation"" OR ""6G"" OR ""sixth generation"" OR ""next generation networks"" OR ""URLLC"" OR ""Ultra-Reliable Low Latency"")"

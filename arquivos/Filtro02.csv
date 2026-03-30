@@ -1,0 +1,41 @@
+FILTRO 02: Remover todos artigos que possuem menos de 3 páginas                            ,,
+QUATIDADE TOTAL DE ARTIGOS: 35,,
+QUANTIDADE DE REMOVIDOS: 2,,
+Anotação: Os que tem * é para ver o Qualis da revista depois.,,
+,,
+TÍTULO,REMOVIDO,
+"Telementoring for surgical training in low-resource settings: a systematic review of current systems and the emerging role of 5G, AI, and XR",Não,*
+Latency-Aware Network Slicing for 5G URLLC Applications: Design and Optimization Strategies,Não,
+Security and regulatory insights for 5G Network Slicing-enabled eHealth applications,Não,
+Towards a European Health Data Slice,Não,
+A Self-Manageable Network Infrastructure Towards Supporting Healthcare Transport Communication,Não,
+AI-Driven Data Analytics and Intent-Based Networking for Orchestration and Control of B5G Consumer Electronics Services,Não,
+A New Technology for Higher end Communication Using Quick and Optimised Computational N/W Implementation for Clinical Field,Não,
+Innovative Communication Protocols and Network Architectures in 5G Technologies,Não,
+A Developed Multi-Level Deep Learning Model for Network Slicing Classification in 5G Network,Não,*
+Handover Management in a Sliced 5G Network Using Deep Reinforcement Learning,Não,
+FRADIS: A Machine Learning-based Multipath Solution for Differentiated Services in a Network Slicing-enhanced Delivery Environment,Não,
+Utility-Based Multipath Delivery of Prioritized XR Content in a Machine Learning and Network Slicing-enhanced Environment,Não,
+AI-Based Network Traffic Prioritization for Latency-Sensitive Applications in 6G Networks,Não,
+5G in healthcare: Matching game-empowered intelligent medical network slicing,Não,*
+Toward Resilient Network Slicing for Satellite-Terrestrial Edge Computing IoT,Não,
+"An Evaluation of e-Health Service Performance through the Integration of 5G IoT, Fog, and Cloud Computing",Não,*
+Network Slicing Modeling and Simulation on 5G Networks Using Virne,Não,
+Harnessing 5G Networks for Health Care: Challenges and Potential Applications,Não,
+Deep Learning-based Network Slice Recognition,Não,
+Large-scale trialing of the B5G technology for eHealth and Emergency domains,Não,
+Advantages of 5G Slicing Technology in the Internet of Things,Não,
+Emergency Telemedicine Mobile Ultrasounds Using a 5G-Enabled Application: Development and Usability Study,Não,*
+Deployment Options of 5G Network Slicing for Smart Healthcare,Sim,O artigo tem somente 2 páginas
+Network Slicing Mobility Aware Control to Assist Handover Decisions on e-Health 5G Use Cases,Não,
+DeepCare: Deep Learning-Based Smart Healthcare Framework using 5G Assisted Network Slicing,Não,
+5G-based smart healthcare system designing and field trial in hospitals,Não,*
+Multi-service Single Tenant 5G Fronthaul Resource Orchestration Framework based on Network Slicing,Não,
+A security scheme for network slicing selection based on Pohlig-Hellman algorithm in smart grid,Não,
+End-to-End Network Service Orchestration in Heterogeneous Domains for Next-Generation Mobile Networks,Não,
+DRIVE-B5G: A Flexible and Scalable Platform Testbed for B5G-V2X Networks,Não,
+Securing E-Health networks by applying network slicing and blockchain techniques,Sim,O artigo tem somente 2 páginas
+A Field Test of 5G Enhanced Mobile Ultrasound with Network Slicing,Não,
+Dynamic 5G Network Slicing for Telemedicine Systems,Não,
+Feasibility Analysis of Fifth-generation (5G) Mobile Networks for Transmission of Medical Imaging Data,Não,
+A 5G-Based eHealth Monitoring and Emergency Response System: Experience and Lessons Learned,Não,
